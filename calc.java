@@ -50,7 +50,7 @@ public class calc {
         Calculator calc = new Calculator();
         calc.setNumber1(10);
         calc.setNumber2(5);
-
+        System.out.println("Answers:");
         System.out.println("Addition: " + calc.add());
         System.out.println("Subtraction: " + calc.subtract());
         System.out.println("Multiplication: " + calc.multiply());
