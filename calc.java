@@ -1,4 +1,4 @@
-public class Calculator {
+public class calc {
     private double number1;
     private double number2;
 
